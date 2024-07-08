@@ -36,6 +36,11 @@ This comprehensive list is maintained by the [Collabnix community](https://colla
 # Videos
 
 
+| Deploy and invoke Lambda functions in LocalStack using VS Code Extension | Mounting local directories for ECS tasks with LocalStack   |
+| ------------------------------------------------ | ---------------------------------------------------- |
+| [![Deploy and invoke Lambda functions in LocalStack using VS Code Extension](https://img.youtube.com/vi/txVPCF-TITk/sddefault.jpg)](https://www.youtube.com/watch?v=txVPCF-TITk) | [![Mounting local directories for ECS tasks with LocalStack](https://img.youtube.com/vi/99dC4ziLxBU/sddefault.jpg)](https://www.youtube.com/watch?v=99dC4ziLxBU) |
+
+
 
 
 
